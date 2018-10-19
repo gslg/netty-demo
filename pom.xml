@@ -12,6 +12,7 @@
     <module>DiscardServer</module>
     <module>ReactorServer</module>
       <module>EchoServer</module>
+      <module>FileServer</module>
   </modules>
 
   <name>netty-demo</name>
