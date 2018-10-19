@@ -1,4 +1,4 @@
-package com.lg.netty.echo;
+package com.lg.echo.usejdk;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
