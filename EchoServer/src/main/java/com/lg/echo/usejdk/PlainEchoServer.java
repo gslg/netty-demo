@@ -51,4 +51,8 @@ public class PlainEchoServer {
             e.printStackTrace();
         }
     }
+
+    public static void main(String[] args) throws IOException {
+        new PlainEchoServer().serve(8080);
+    }
 }

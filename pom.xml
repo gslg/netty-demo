@@ -13,6 +13,7 @@
     <module>ReactorServer</module>
       <module>EchoServer</module>
       <module>FileServer</module>
+      <module>Transports</module>
   </modules>
 
   <name>netty-demo</name>
