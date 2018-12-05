@@ -14,6 +14,7 @@
       <module>EchoServer</module>
       <module>FileServer</module>
       <module>Transports</module>
+      <module>telnet</module>
   </modules>
 
   <name>netty-demo</name>
