@@ -15,6 +15,7 @@
       <module>FileServer</module>
       <module>Transports</module>
       <module>telnet</module>
+      <module>qotm</module>
   </modules>
 
   <name>netty-demo</name>
